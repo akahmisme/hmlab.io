@@ -1,6 +1,6 @@
 # Copyright
 
-Content copyright belongs to owner of hmlab.com from 2023. The jekyll theme follows MIT License.
+Content copyright belongs to owner of hmlab.com from 2024. The jekyll theme follows MIT License.
 
 
 # Site
