@@ -5,6 +5,7 @@ permalink: /promotion
 ---
 
 # M&M Expat Service
+![MM Expat Service](/assets/img/mm_expat_1.jpg)
 
 Located in Guangdong Province, M&M Expat Service Company providing service includes Work Permit & Working Visa, Document Translation, Tour Guide & Hotel Booking, English Driver, Factory Inspection, Canton Fair Interpreting, and so on. 
 
@@ -17,3 +18,5 @@ Contact us by
 **Tel / Wechat / Skype:  +86 137 5142 8015**
 
 **Email: m.m_expat@foxmail.com**
+
+![MM Expat Service](/assets/img/mm_expat_2.jpg)
